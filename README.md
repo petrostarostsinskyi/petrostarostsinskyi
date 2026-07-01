@@ -1,6 +1,6 @@
 <div align="center">
 
-# Rui Jin
+# Petro Starostsinskyi
 
 Creative Software Engineer | AI/ML Engineer | Full-Stack Developer | Prompt Engineer
 
@@ -21,9 +21,9 @@ Creative Software Engineer | AI/ML Engineer | Full-Stack Developer | Prompt Engi
 
 ```ts
 const rui = {
-  name: "Rui Jin",
-  role: "Creative Software Engineer",
-  location: "Hong Kong",
+  name: "Petro Starostsinskyi",
+  role: "AI & Full-Stack developer",
+  location: "Ukraine",
   focus: ["AI / ML", "Web Development", "Automation", "Prompt Engineering"],
   currentWork: "Building AI-powered tools and high-performance digital products",
   availability: "Open to freelance work and collaborations",
@@ -184,8 +184,8 @@ My work spans full-stack applications, automation systems, AI integrations, and 
 | Mar 2025 - Present | AI/ML Engineer | Self-Employed | Remote, USA |
 | Jul 2022 - Jan 2026 | Prompt Engineer | Outlier.ai | Remote, USA |
 | Jun 2020 - Dec 2022 | Freelance Software Developer | Upwork | Remote, USA |
-| Sep 2019 - May 2020 | Volunteer Web Developer | Non-Profit Organization | Remote, Hong Kong |
-| Jun 2018 - Aug 2019 | Intern Software Engineer | Tech Startup | Hybrid, Hong Kong |
+| Sep 2019 - May 2020 | Volunteer Web Developer | Non-Profit Organization | Remote, USA |
+| Apr 2018 - Aug 2019 | Intern Software Engineer | Tech Startup | Remote, USA |
 
 Over 5 years of experience building, shipping, and improving software across web, AI, and automation workflows.
 
@@ -194,7 +194,7 @@ Over 5 years of experience building, shipping, and improving software across web
 ## Education
 
 **Bachelor of Computer Science**  
-City University of Hong Kong | 2016 - 2020
+City University of Ukraine | 2014 - 2018
 
 - Graduated with honors
 - Completed a thesis on AI-driven web applications
@@ -204,7 +204,7 @@ City University of Hong Kong | 2016 - 2020
 
 ## Selected Projects
 
-### [Object Detection System](https://github.com/ruijindev0801/Shark_Detection)
+### [Object Detection System](https://github.com/petrostarostsinskyi/Shark_Detection)
 AI-powered real-time marine object detection from drone footage using computer vision and YOLO-based models.
 
 **Stack:** `Python` `TensorFlow` `OpenCV` `Drone SDK` `YOLO26`
@@ -214,7 +214,7 @@ AI-powered real-time marine object detection from drone footage using computer v
 - Drone integration for live capture workflows
 - Monitoring interface for operational visibility
 
-### [Photo Protection System](https://github.com/ruijindev0801/Photoshield_2026)
+### [Photo Protection System](https://github.com/petrostarostsinskyi/Photoshield_2026)
 An AI-based system for protecting Instagram photos from unauthorized use through image recognition and watermarking.
 
 **Stack:** `Python` `TensorFlow` `OpenCV` `Instagram API`
@@ -234,7 +234,7 @@ Responsive, conversion-focused landing page built for a SaaS product. [Repositor
 - Email integration with Resend
 - Clean, modern UI focused on clarity and performance
 
-### [GitHub Scraping Tool](https://github.com/ruijindev0801/Github_Scraper_2026)
+### [GitHub Scraping Tool](https://github.com/petrostarostsinskyi/Github_Scraper_2026)
 Real-time GitHub data scraper with interactive dashboards for analysis and reporting.
 
 **Stack:** `Python` `CustomTkinter` `GitHub API`
@@ -269,11 +269,11 @@ Real-time GitHub data scraper with interactive dashboards for analysis and repor
 
 I am always open to discussing new projects, freelance opportunities, and collaborations.
 
-- Email: [ruijin.ai.dev@outlook.com](mailto:ruijin.dev0801@gmail.com)
+- Email: [ruijin.ai.dev@outlook.com](mailto:petrostarostsinskyi@gmail.com)
 - LinkedIn: [linkedin.com/in/ruijin9981](https://linkedin.com/in/ruijin9981)
-- GitHub: [github.com/ruijindev0801](https://github.com/ruijindev0801)
+- GitHub: [github.com/ruijindev0801](https://github.com/petrostarostsinskyi)
 - Twitter: [twitter.com/ruijin9981](https://twitter.com/ruijin9981)
-- Location: Hong Kong
+- Location: Ukraine
 - Availability: Monday to Friday, 9AM - 6PM (CST)
 - Response time: Within 24 hours
 
