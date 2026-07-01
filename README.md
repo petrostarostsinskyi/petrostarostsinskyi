@@ -269,10 +269,8 @@ Real-time GitHub data scraper with interactive dashboards for analysis and repor
 
 I am always open to discussing new projects, freelance opportunities, and collaborations.
 
-- Email: [ruijin.ai.dev@outlook.com](mailto:petrostarostsinskyi@gmail.com)
-- LinkedIn: [linkedin.com/in/ruijin9981](https://linkedin.com/in/ruijin9981)
-- GitHub: [github.com/ruijindev0801](https://github.com/petrostarostsinskyi)
-- Twitter: [twitter.com/ruijin9981](https://twitter.com/ruijin9981)
+- Email: [petrostarostsinskyi@gmail.com](mailto:petrostarostsinskyi@gmail.com)
+- GitHub: [github.com/petrostarostsinskyi](https://github.com/petrostarostsinskyi)
 - Location: Ukraine
 - Availability: Monday to Friday, 9AM - 6PM (CST)
 - Response time: Within 24 hours
